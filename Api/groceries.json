@@ -1,0 +1,456 @@
+{
+  "response": "y",
+  "error": false,
+  "message": "Success",
+  "result_array": [
+    {
+      "ID": "2",
+      "name": "Atta and Flours",
+      "products": [
+        {
+          "ID": "51",
+          "name": "jiwa ata1 kg",
+          "category_name": "Atta and Flours",
+          "final_price": "9.00",
+          "actual_price": "10",
+          "discount": "10",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "136",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864180Ahaar.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "52",
+          "name": "Smarat sujji 1 kg",
+          "category_name": "Atta and Flours",
+          "final_price": "35.20",
+          "actual_price": "40",
+          "discount": "12",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "147",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614865210samrat (1).png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "50",
+          "name": "pillsburry Atta 5-kg",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "40",
+          "discount": "0",
+          "qty": "17",
+          "images": [
+            {
+              "img_id": "138",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864397pillsburry.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "49",
+          "name": "Ashirwad Atta, 1Kg Pouch",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "40",
+          "discount": "0",
+          "qty": "9",
+          "images": [
+            {
+              "img_id": "142",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864631aashirvaad (1).png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "48",
+          "name": "Ashirwad Select Atta, 5 Kg Pouch",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "40",
+          "discount": "0",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "144",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864724aashirvaad (1).png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "47",
+          "name": "Aashirvaad multigrain Atta, 5 Kg Pouch",
+          "category_name": "Atta and Flours",
+          "final_price": "63.70",
+          "actual_price": "70",
+          "discount": "9",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "145",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614865024aashirvaad (1).png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "46",
+          "name": "Aashirvaad Select Atta, 5 Kg Pouch",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "80",
+          "discount": "50",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "146",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614865085aashirvaad (1).png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "53",
+          "name": "elite soojji 500gm",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "40",
+          "discount": "0",
+          "qty": "2",
+          "images": [
+            {
+              "img_id": "137",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864277elite-maida.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "54",
+          "name": "Anil Maida 500 gm",
+          "category_name": "Atta and Flours",
+          "final_price": "40.00",
+          "actual_price": "40",
+          "discount": "0",
+          "qty": "143",
+          "images": [
+            {
+              "img_id": "134",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864031Anil-maida.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "55",
+          "name": "Aambe maida 1 kg",
+          "category_name": "Atta and Flours",
+          "final_price": "45.00",
+          "actual_price": "50",
+          "discount": "10",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "135",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614864094ambe-sooji.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "92",
+          "name": "Grocie",
+          "category_name": "Atta and Flours",
+          "final_price": "0.00",
+          "actual_price": "0",
+          "discount": "0",
+          "qty": "2",
+          "images": [
+            {
+              "img_id": "190",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1622263957Lighthouse.jpg"
+            }
+          ],
+          "variant": [
+            {
+              "ID": "3",
+              "weight": "100",
+              "quantity": "90",
+              "discount": "0",
+              "final_price": "50.00",
+              "actual_price": "50",
+              "product_id": "92"
+            },
+            {
+              "ID": "4",
+              "weight": "500",
+              "quantity": "95",
+              "discount": "0",
+              "final_price": "20.00",
+              "actual_price": "20",
+              "product_id": "92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ID": "5",
+      "name": "Shampoo",
+      "products": [
+        {
+          "ID": "44",
+          "name": "Stunning Black Shine Shampoo, 200 ml",
+          "category_name": "Shampoo",
+          "final_price": "102.00",
+          "actual_price": "102",
+          "discount": "0",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "107",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614835825Sunsilk_Shampoo-removebg-preview.png"
+            },
+            {
+              "img_id": "108",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614835833Sunsilk_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "43",
+          "name": "Sunsilk Stunning Black Shine Shampoo, 340 ml",
+          "category_name": "Shampoo",
+          "final_price": "44.50",
+          "actual_price": "50",
+          "discount": "11",
+          "qty": "9",
+          "images": [
+            {
+              "img_id": "109",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614835880Sunsilk_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "16",
+          "name": "Himalaya GENTLE BABY SHAMPOO  (100 ml)",
+          "category_name": "Shampoo",
+          "final_price": "40.50",
+          "actual_price": "45",
+          "discount": "10",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "114",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836250himalaya_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "17",
+          "name": "Himalaya GENTLE BABY SHAMPOO  (200 ml)",
+          "category_name": "Shampoo",
+          "final_price": "450.00",
+          "actual_price": "450",
+          "discount": "0",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "113",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836205himalaya_Shampoo-removebg-preview.png"
+            },
+            {
+              "img_id": "112",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836197himalaya_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "42",
+          "name": "Sunsilk Lusciously Thick & Long Shampoo, 180 ml",
+          "category_name": "Shampoo",
+          "final_price": "60.00",
+          "actual_price": "60",
+          "discount": "0",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "110",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614835950Sunsilk_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "38",
+          "name": "Baby shampoo",
+          "category_name": "Shampoo",
+          "final_price": "50.00",
+          "actual_price": "50",
+          "discount": "0",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "111",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836136himalaya_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "39",
+          "name": "Lemon Fresh",
+          "category_name": "Shampoo",
+          "final_price": "10.00",
+          "actual_price": "10",
+          "discount": "0",
+          "qty": "40",
+          "images": [
+            {
+              "img_id": "116",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836339head_n_shoulder_Shampoo-removebg-preview.png"
+            },
+            {
+              "img_id": "117",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836339Moisture_repair_shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "40",
+          "name": "Anti Dandruff Shampoo",
+          "category_name": "Shampoo",
+          "final_price": "10.10",
+          "actual_price": "10",
+          "discount": "-1",
+          "qty": "542",
+          "images": [
+            {
+              "img_id": "118",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836372Moisture_repair_shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "41",
+          "name": "Anti Dandruff Shampoo 50ml",
+          "category_name": "Shampoo",
+          "final_price": "11000.00",
+          "actual_price": "11000",
+          "discount": "0",
+          "qty": "40",
+          "images": [
+            {
+              "img_id": "115",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614836308head_n_shoulder_Shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "45",
+          "name": "Sunsilk Stunning",
+          "category_name": "Shampoo",
+          "final_price": "52.00",
+          "actual_price": "50",
+          "discount": "-4",
+          "qty": "37",
+          "images": [
+            {
+              "img_id": "106",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614835769Moisture_repair_shampoo-removebg-preview.png"
+            }
+          ],
+          "variant": []
+        }
+      ]
+    },
+    {
+      "ID": "10",
+      "name": "All Purpose Flour",
+      "products": [
+        {
+          "ID": "70",
+          "name": "uttam",
+          "category_name": "All Purpose Flour",
+          "final_price": "7.00",
+          "actual_price": "10",
+          "discount": "30",
+          "qty": "20",
+          "images": [
+            {
+              "img_id": "162",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614922367uttam-maida.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "71",
+          "name": "Shankar maia 500gm",
+          "category_name": "All Purpose Flour",
+          "final_price": "120.00",
+          "actual_price": "120",
+          "discount": "0",
+          "qty": "5",
+          "images": [
+            {
+              "img_id": "163",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614922474shankar-maida.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "72",
+          "name": "Rajdhani  Sooji",
+          "category_name": "All Purpose Flour",
+          "final_price": "30.00",
+          "actual_price": "30",
+          "discount": "0",
+          "qty": "7",
+          "images": [
+            {
+              "img_id": "164",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614922524rajdhani-sooji.png"
+            }
+          ],
+          "variant": []
+        },
+        {
+          "ID": "73",
+          "name": "Rishta Sooji",
+          "category_name": "All Purpose Flour",
+          "final_price": "50.00",
+          "actual_price": "50",
+          "discount": "0",
+          "qty": "0",
+          "images": [
+            {
+              "img_id": "165",
+              "img_product": "https://studyleagueit.com/ditrpEcommerce/img/Product/1614922573Rishta-sooji (1).png"
+            }
+          ],
+          "variant": []
+        }
+      ]
+    }
+  ]
+}
